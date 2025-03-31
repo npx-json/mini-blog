@@ -1,4 +1,4 @@
-# Blog engine for ASP.NET Core 9
+# mini-blog
 
 A full-featured yet simple blog engine built on ASP.NET Core 9.
 
